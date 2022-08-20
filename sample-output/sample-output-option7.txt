@@ -1,0 +1,76 @@
+Sample Output for Option 7: Check Eligible FYP Student
+
+Sample 1 -  Student with id is eligible to take FYP
+
+Menu
+
+1. Create student list
+2. Delete student
+3. Display student list
+4. Add exam result
+5. Recalculate Result
+6. Filter Student
+7. Check Eligible FYP Student
+8. Exit.
+Enter your choice: 7
+
+Enter the student id to check if eligible to take FYP:  1310983
+
+This student is eligible to take FYP. Below are the details of the students:
+
+Name:  Audrey Chan
+Id: 1310983
+Course: IA
+Phone No: 521-3879
+Current CGPA: 3.87706
+Total Credits Earned: 51
+
+Grade obtained for UCCD2502 Introduction to Inventive Problem Solving is A+
+Grade obtained for UCCD2513 Mini Project A-
+
+
+
+Sample 2 - Student with id is not eligible to take FYP
+
+Menu
+
+1. Create student list
+2. Delete student
+3. Display student list
+4. Add exam result
+5. Recalculate Result
+6. Filter Student
+7. Check Eligible FYP Student
+8. Exit.
+Enter your choice: 7
+
+Enter the student id to check if eligible to take FYP: 1200233
+
+This student Matt Damon is not eligible to take FYP yet.
+
+
+
+
+Sample 3 - Cannot find student with id
+
+Menu
+
+1. Create student list
+2. Delete student
+3. Display student list
+4. Add exam result
+5. Recalculate Result
+6. Filter Student
+7. Check Eligible FYP Student
+8. Exit.
+Enter your choice: 7
+
+Enter the student id to check if eligible to take FYP: 1234567
+
+There is no student with id 1234567 in the list.
+
+Cannot check if student is eligible for FYP.
+
+
+
+

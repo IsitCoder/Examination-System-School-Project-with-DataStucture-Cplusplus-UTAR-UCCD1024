@@ -1,0 +1,145 @@
+Sample Output for Option 5: Recalculate Result
+
+Sample 1 - Student with id can be found and result is recalculated
+
+
+Menu
+
+1. Create student list
+2. Delete student
+3. Display student list
+4. Add exam result
+5. Recalculate Result
+6. Filter Student
+7. Check Eligible FYP Student
+8. Exit.
+Enter your choice: 5
+
+
+Enter the student id to recalculate result based on revised grading: 1200233
+
+
+
+RESULT OUTPUT BASED ON ORIGINAL GRADING:
+_________________________________________
+
+Name:  Matt Damon
+Id: 1200233
+Course: CS
+Phone No: 790-3233
+Current CGPA: 3.59429
+Total Credits Earned: 14
+
+-----------------------------------------------ORIGINAL GRADING EXAM RESULT:-------------------------------------------------
+
+Jan 2013 Exam Results:
+
+3 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code    Subject Name                                                          Credit Hours      Grade   Grade Point
+___________________________________________________________________________________________________________________________
+UCCD1004        PROGRAMMING CONCEPTS AND DESIGN                                             4             B+      3.33000
+UCCD1024        DATA STRUCTURES                                                             4             A       4.00000
+UCCD2502        INTRODUCTION TO INVENTIVE PROBLEM SOLVING AND PROPOSAL WRITING              3             A-      3.67000
+GPA: 3.66636
+
+
+
+May 2012 Exam Results:
+
+1 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code    Subject Name                                                          Credit Hours      Grade   Grade Point
+___________________________________________________________________________________________________________________________
+UCCD2502        INTRODUCTION TO INVENTIVE PROBLEM SOLVING AND PROPOSAL WRITING              3             B+      3.33000
+GPA: 3.33000
+
+
+-----------------------------------------------ORIGINAL GRADING EXAM RESULT:-------------------------------------------------
+
+
+
+RESULT OUTPUT BASED ON REVISED GRADING:
+_______________________________________
+
+Name:  Matt Damon
+Id: 1200233
+Course: CS
+Phone No: 790-3233
+Current CGPA: 3.00000
+Total Credits Earned: 14
+
+-----------------------------------------------REVISED GRADING EXAM RESULT:-------------------------------------------------
+
+Jan 2013 Exam Results:
+
+3 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code    Subject Name                                                          Credit Hours      Grade   Grade Point
+___________________________________________________________________________________________________________________________
+UCCD1004        PROGRAMMING CONCEPTS AND DESIGN                                             4             B-      2.70000
+UCCD1024        DATA STRUCTURES                                                             4             B+      3.30000
+UCCD2502        INTRODUCTION TO INVENTIVE PROBLEM SOLVING AND PROPOSAL WRITING              3             B+      3.30000
+GPA: 3.08182
+
+
+
+May 2012 Exam Results:
+
+1 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code    Subject Name                                                          Credit Hours      Grade   Grade Point
+___________________________________________________________________________________________________________________________
+UCCD2502        INTRODUCTION TO INVENTIVE PROBLEM SOLVING AND PROPOSAL WRITING              3             B-      2.70000
+GPA: 2.70000
+
+
+-----------------------------------------------REVISED GRADING EXAM RESULT:-------------------------------------------------
+
+
+
+Sample 2 - Student with id has not taken any exam yet
+
+
+Menu
+
+1. Create student list
+2. Delete student
+3. Display student list
+4. Add exam result
+5. Recalculate Result
+6. Filter Student
+7. Check Eligible FYP Student
+8. Exit.
+Enter your choice: 5
+
+Enter the student id to recalculate result based on revised grading: 1733567
+
+This student have not taken any exam yet and cannot recalculate result.
+
+
+
+Sample 3 - Cannot find student with id
+
+Menu
+
+1. Create student list
+2. Delete student
+3. Display student list
+4. Add exam result
+5. Recalculate Result
+6. Filter Student
+7. Check Eligible FYP Student
+8. Exit.
+Enter your choice: 5
+
+Enter the student id to recalculate result based on revised grading: 1234567
+
+There is no student with id 1234567 in the list.
+
+Cannot recalculate result.
+
+
+
+
+

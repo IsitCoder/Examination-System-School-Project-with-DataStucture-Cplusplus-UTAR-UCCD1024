@@ -1,0 +1,354 @@
+
+
+***********************************STUDENT 1****************************************
+
+
+
+Name: Ben Affleck
+Id: 1201237
+Course: IA
+Phone No: 432-4579
+Current CGPA: 3.85857
+Total Credits Earned: 7
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+May 2012 Exam Results: 
+
+2 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                             4	          A	  4.00000
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING              3	          A-	  3.67000
+GPA: 3.85857
+
+
+
+***********************************STUDENT 1****************************************
+
+
+
+***********************************STUDENT 2****************************************
+
+
+
+Name: Bill Gate
+Id: 1200900
+Course: IA
+Phone No: 790-1233
+Current CGPA: 2.78172
+Total Credits Earned: 29
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+Jan 2012 Exam Results: 
+
+4 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                                             4	          A+	  4.00000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                             4	          A-	  3.67000
+UCCD2044	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                                       4	          A-	  3.67000
+UCCN1004	DATA_COMMUNICATIONS_AND_NETWORKING                                          4	          B	  3.00000
+GPA: 3.58500
+
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+May 2012 Exam Results: 
+
+2 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING              4	          B+	  3.33000
+UCCD2513	MINI_PROJECT                                                                3	          B+	  3.33000
+GPA: 3.33000
+
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+Oct 2013 Exam Results: 
+
+2 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD2223	WEB_SITE_DESIGN_AND_DEVELOPMENT                                             3	          F	  0.00000
+UCCN1213	FUNDAMENTALS_OF_COMPUTER_AND_INFORMATION_SECURITY                           3	          F	  0.00000
+GPA: 0.00000
+
+
+
+***********************************STUDENT 2****************************************
+
+
+
+***********************************STUDENT 3****************************************
+
+
+
+Name: Daina Leina
+Id: 1300903
+Course: CS
+Phone No: 790-0022
+Current CGPA: 1.93516
+Total Credits Earned: 31
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+Jan 2012 Exam Results: 
+
+5 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING              3	          C+	  2.33000
+UCCD2203	DATABASE_SYSTEMS                                                            3	          F	  0.00000
+UCCD2223	WEB_SITE_DESIGN_AND_DEVELOPMENT                                             3	          C	  2.00000
+UCCN1213	FUNDAMENTALS_OF_COMPUTER_AND_INFORMATION_SECURITY                           3	          B-	  2.67000
+UCCD2513	MINI_PROJECT                                                                3	          C+	  2.33000
+GPA: 1.86600
+
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+May 2012 Exam Results: 
+
+4 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                                             4	          C	  2.00000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                             4	          C	  2.00000
+UCCD2044	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                                       4	          C	  2.00000
+UCCN1004	DATA_COMMUNICATIONS_AND_NETWORKING                                          4	          C	  2.00000
+GPA: 2.00000
+
+
+
+***********************************STUDENT 3****************************************
+
+
+
+***********************************STUDENT 4****************************************
+
+
+
+Name: Emma Watson
+Id: 1200901
+Course: IA
+Phone No: 790-3321
+Current CGPA: 3.02300
+Total Credits Earned: 30
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+Jan 2013 Exam Results: 
+
+3 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING              3	          F	  0.00000
+UCCD2513	MINI_PROJECT                                                                3	          B-	  2.67000
+UCCD2223	WEB_SITE_DESIGN_AND_DEVELOPMENT                                             4	          B	  3.00000
+GPA: 2.00100
+
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+May 2013 Exam Results: 
+
+5 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                                             4	          A+	  4.00000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                             4	          A-	  3.67000
+UCCD2044	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                                       4	          A-	  3.67000
+UCCN1004	DATA_COMMUNICATIONS_AND_NETWORKING                                          4	          B	  3.00000
+UCCD2203	DATABASE_SYSTEMS                                                            4	          B+	  3.33000
+GPA: 3.53400
+
+
+
+***********************************STUDENT 4****************************************
+
+
+
+***********************************STUDENT 5****************************************
+
+
+
+Name: John Snow
+Id: 1300902
+Course: CS
+Phone No: 790-1111
+Current CGPA: 2.92548
+Total Credits Earned: 31
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+May 2012 Exam Results: 
+
+5 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                                             4	          A-	  3.67000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                             4	          B-	  2.67000
+UCCD2044	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                                       4	          C+	  2.33000
+UCCN1004	DATA_COMMUNICATIONS_AND_NETWORKING                                          4	          B	  3.00000
+UCCD2513	MINI_PROJECT                                                                3	          B+	  3.33000
+GPA: 2.98263
+
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+Oct 2013 Exam Results: 
+
+4 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING              3	          A-	  3.67000
+UCCD2203	DATABASE_SYSTEMS                                                            3	          B	  3.00000
+UCCD2223	WEB_SITE_DESIGN_AND_DEVELOPMENT                                             3	          C	  2.00000
+UCCN1213	FUNDAMENTALS_OF_COMPUTER_AND_INFORMATION_SECURITY                           3	          B-	  2.67000
+GPA: 2.83500
+
+
+
+***********************************STUDENT 5****************************************
+
+
+
+***********************************STUDENT 6****************************************
+
+
+
+Name: Matt Damon
+Id: 1200233
+Course: CS
+Phone No: 790-3233
+Current CGPA: 3.59429
+Total Credits Earned: 14
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+Jan 2013 Exam Results: 
+
+3 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                                             4	          B+	  3.33000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                             4	          A	  4.00000
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING              3	          A-	  3.67000
+GPA: 3.66636
+
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+May 2012 Exam Results: 
+
+1 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING              3	          B+	  3.33000
+GPA: 3.33000
+
+
+
+***********************************STUDENT 6****************************************
+
+
+
+***********************************STUDENT 7****************************************
+
+
+
+Name: Meow Woo
+Id: 1733567
+Course: IB
+Phone No: 790-1223
+Current CGPA: 0.00000
+Total Credits Earned: 0
+
+
+!!! THIS STUDENT HAVEN'T TAKEN ANY EXAM YET !!!
+
+***********************************STUDENT 7****************************************
+
+
+
+***********************************STUDENT 8****************************************
+
+
+
+Name: Salma Hayek
+Id: 1300899
+Course: IB
+Phone No: 790-0000
+Current CGPA: 3.66500
+Total Credits Earned: 8
+
+
+---------------------------------------PAST EXAM RESULT------------------------------------------
+
+
+
+Oct 2012 Exam Results: 
+
+2 subjects taken.
+___________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                          Credit Hours	Grade 	Grade Point
+___________________________________________________________________________________________________________________________
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                                             4	          B+	  3.33000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                             4	          A	  4.00000
+GPA: 3.66500
+
+
+
+***********************************STUDENT 8****************************************
+

@@ -1,0 +1,39 @@
+Student Id = 1200233
+Name = Matt Damon
+Course = CS
+Phone Number = 790-3233
+
+Student Id = 1201237
+Name = Ben Affleck
+Course = IA
+Phone Number = 432-4579
+
+Student Id = 1300899
+Name = Salma Hayek
+Course = IB
+Phone Number = 790-0000
+
+Student Id = 1733567
+Name = Meow Woo
+Course = IB
+Phone Number = 790-1223
+
+Student Id = 1200900
+Name = Bill Gate
+Course = IA
+Phone Number = 790-1233
+
+Student Id = 1200901
+Name = Emma Watson
+Course = IA
+Phone Number = 790-3321
+
+Student Id = 1300902
+Name = John Snow
+Course = CS
+Phone Number = 790-1111
+
+Student Id = 1300903
+Name = Daina Leina
+Course = CS
+Phone Number = 790-0022
