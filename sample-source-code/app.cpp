@@ -54,7 +54,7 @@ int menu()
 	
 	
 	int quit = 0;
-	char action;
+	string action;
 	char source;
 	int src;
 
@@ -76,7 +76,7 @@ int menu()
 		cin >> action;
 		cout << "\n\n";
 
-		switch (action)
+		switch (action[0])
 		{
 		case '1': 
 		
